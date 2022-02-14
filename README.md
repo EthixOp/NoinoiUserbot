@@ -1,4 +1,4 @@
-# CatUserbot
+# Noinoi Userbot 🥀
 A simple Telegram userbot based on Telethon .
 ![catuserbot logo](https://telegra.ph/file/863a0da1fca39c936ffa8.jpg)
 
